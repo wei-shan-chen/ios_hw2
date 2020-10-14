@@ -11,6 +11,7 @@
 		5312C0AF2536CCCB0052ACE0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5312C0AE2536CCCB0052ACE0 /* ContentView.swift */; };
 		5312C0B12536CCCB0052ACE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5312C0B02536CCCB0052ACE0 /* Assets.xcassets */; };
 		5312C0B42536CCCB0052ACE0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5312C0B32536CCCB0052ACE0 /* Preview Assets.xcassets */; };
+		5312C0BD2536E14C0052ACE0 /* EditPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5312C0BC2536E14C0052ACE0 /* EditPhotoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		5312C0B02536CCCB0052ACE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5312C0B32536CCCB0052ACE0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5312C0B52536CCCB0052ACE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5312C0BC2536E14C0052ACE0 /* EditPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditPhotoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				5312C0AC2536CCCB0052ACE0 /* protecttApp.swift */,
 				5312C0AE2536CCCB0052ACE0 /* ContentView.swift */,
+				5312C0BC2536E14C0052ACE0 /* EditPhotoView.swift */,
 				5312C0B02536CCCB0052ACE0 /* Assets.xcassets */,
 				5312C0B52536CCCB0052ACE0 /* Info.plist */,
 				5312C0B22536CCCB0052ACE0 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				5312C0AF2536CCCB0052ACE0 /* ContentView.swift in Sources */,
 				5312C0AD2536CCCB0052ACE0 /* protecttApp.swift in Sources */,
+				5312C0BD2536E14C0052ACE0 /* EditPhotoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
